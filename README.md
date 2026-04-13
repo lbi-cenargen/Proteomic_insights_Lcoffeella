@@ -1,4 +1,4 @@
-# Proteomic insight <i>Leucoptera coffeella</I>
+# Proteomic insight <i>Leucoptera coffeella</I> larval stages
 
  Proteomic Insights into Larval Stages of Coffee Leaf Miner (<I>Leucoptera coffeella</I>): A Step Towards the Development of Pest Management strategies
 
